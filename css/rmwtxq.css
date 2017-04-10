@@ -1,0 +1,303 @@
+
+.dingbu{
+	width: 101%;
+	height: 0.41rem;
+	background: #37BBFF;
+	position: fixed;
+}
+.dingbu img{
+	width: 100%;
+	height: auto;
+}
+
+
+.logo{
+	width: 100%;
+	height: 0.7rem;
+	background: #007BE3;
+	position: fixed;
+	margin-top: 0.41rem;
+}
+.logo .left{
+	width:48%;
+	height: 0.5rem;
+    float: left;
+	
+}
+.logo .left img{
+	width: 0.6rem;
+	height: 0.6rem;
+	display: block;
+	margin-top: 0.05rem;
+	margin-left: 2.8rem;
+
+}
+.logo .right{
+	width: 52%;
+	height: 0.5rem;
+	float: left;	
+	line-height: 0.7rem;
+}
+.logo .right h3{
+	font-size: 0.27rem;
+	color: white;
+}
+
+.banner{
+	width: 100%;
+	height: auto;
+	overflow: hidden;
+}
+.banner img{
+	width: 100%;
+	height:auto;
+	margin-top: 1rem;
+}
+
+.hengzi{
+	width: 100%;
+	height: 0.67rem;
+
+}
+.hengzi span{
+	box-sizing: border-box;
+	padding-left: 0.2rem;
+	font-size: 0.2rem;
+	line-height: 0.67rem;
+}
+.hengzi a{
+	text-decoration: none;
+	color: black;
+}
+
+	
+	
+	
+	
+
+
+.dibu{
+	width: 100%;
+	hanging-punctuation: auto;
+	text-align: center;
+	margin-top: 0.2rem;
+	margin-bottom: 0.2rem;
+}
+.dibu p{
+	font-size: 0.2rem;
+	color: #8F8F91;
+}
+
+
+.lou5{
+	width: 95%;
+    height: auto;
+    overflow: hidden;
+    background: white;
+    margin-top: 0.2rem;
+    margin:auto;
+   
+}
+.lou5 .heng{
+	width: 100%;
+	height: 3.64rem;
+	background: #474747;
+}
+.lou5 .top{
+	width: 95%;
+	height: 0.4rem;	
+	margin:0 auto;
+	
+}
+.lou5 .top .left{
+	width: 0.04rem;
+	height: 0.2rem;
+	background: #01B5FF;
+	margin-left: 0.2rem;
+	margin-top: 0.2rem;
+	
+}
+.lou5 .top .span{
+	width: 80%;
+	height: 0.35rem;
+	float: right;
+	margin-top: -0.25rem;
+	margin-right: 1rem;
+	border-bottom: 0.01rem dashed #ccc;
+}
+.lou5 .top span{
+	font-size: 0.2rem;
+	box-sizing: border-box;	
+}
+.lou5 .top1{
+	width: 95%;
+	height: auto;
+	margin:0 auto;
+	overflow: hidden;
+	
+}
+.lou5 .top1 .left{
+	width: 0.04rem;
+	height: 0.2rem;
+	
+}
+.lou5 .top1 .left img{
+	width: 0.14rem;
+	height: 0.14rem;
+    margin-left: 0.12rem;
+}
+.lou5 .top1 .span{
+	width: 6.59rem;
+	height:auto;
+	float: right;
+	margin-top: -0.25rem;
+	/*margin-right: 0.20rem;*/
+	margin-bottom: 0.25rem;
+	/*border-bottom:0.01rem dashed #ccc;*/
+}
+
+.lou5 .top1 span{
+	display: inline-block;
+	font-size: 0.2rem;
+	color: #A1A1A1;
+	margin-top: 0.25rem;
+	box-sizing: border-box;
+	padding-right: 0.1rem;
+	padding-left: -0.2rem;
+}
+
+.lou5 .top2{
+	width: 95%;
+	height: auto;
+	margin:0 auto;
+	overflow: hidden;
+	
+}
+.lou5 .top2 .span{
+	width: 6.59rem;
+	height:auto;
+	float: right;
+	margin-top: 0.1rem;
+	margin-bottom: 0.25rem;
+	border-bottom:0.01rem dashed #ccc;
+}
+
+.lou5 .top2 span{
+	display: inline-block;
+	font-size: 0.2rem;
+	color: #A1A1A1;
+	margin-top: 0.25rem;
+	box-sizing: border-box;
+	padding-right: 0.1rem;
+	padding-left: -0.2rem;
+	padding-bottom:0.2rem;
+}
+.lou5 .top2 .fenxiang{
+	width: 100%;
+	height: auto;
+	overflow: hidden;
+}
+.lou5 .top2 .fenxiang span{
+	float: left;
+	font-size: 0.25rem;
+	color: black;
+    margin-top: 0rem;
+}
+.lou5 .top2 .fenxiang img{
+	display: block;
+	width: 0.4rem;
+	height: 0.4rem;
+	float: left;
+	margin-right: 0.1rem;
+}
+.lou5 .top2 .fenxiang .img1{
+	float: right;
+}
+
+
+.syp{
+	width: 95%;
+	height: auto;
+	overflow: hidden;
+	margin:0.2rem auto;
+}
+.syp p{
+	font-size: 0.2rem;
+	box-sizing: border-box;
+	padding-left: 0.2rem;
+}
+.syp p span{
+	font-size: 0.2rem;
+	color: #5BA2E0;
+}
+
+.xiangguan{
+	width: 95%;
+	height: auto;
+	overflow: hidden;
+	margin:auto;
+	background: white;
+}
+.xiangguan .top{
+	width: 100%;
+	height: auto;
+	overflow: hidden;
+	margin:auto;
+	background: white;
+}
+.xiangguan .top .left{
+	width: 0.04rem;
+	height: 0.2rem;
+	background: #01B5FF;
+    margin-left: 0.2rem;
+	margin-top:0.2rem;
+	float: left;
+	
+}
+.xiangguan .top .span{
+	width: 90%;
+	height: 0.3rem;
+	float: right;
+	margin-top: 0.15rem;
+	margin-right: 0.2rem;
+	border-bottom: 0.01rem dashed #ccc;
+}
+.xiangguan .top span{
+	font-size: 0.2rem;
+	box-sizing: border-box;
+	padding-left:0rem;
+}
+.xiangguan .top1{
+	width: 95%;
+	height: 0.2rem;
+	margin:0.2rem auto;
+	overflow: hidden;
+	background: white;
+	
+}
+.xiangguan.top1 .left{
+	width: 0.04rem;
+	height: 0.2rem;
+	
+}
+.xiangguan .top1 .left img{
+	width: 0.14rem;
+	height: 0.14rem;
+    margin-left: 0rem;
+}
+.xiangguan .top1 .span{
+	width: 6.5rem;
+	height: 2rem;
+	height: auto;
+	float: right;
+    margin-top: -0.21rem;
+	margin-right: 0rem;
+	margin-bottom: 0.25rem;
+}
+.xiangguan .top1 span{
+	font-size: 0.2rem;
+	color: black;
+}
+.xiangguan .top1 .span2 span{
+	color: #6BD3FF;
+}

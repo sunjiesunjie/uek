@@ -1,0 +1,569 @@
+.dingbu{
+	width: 101%;
+	height: 0.41rem;
+	background: #37BBFF;
+	position: fixed;
+	z-index: 1;
+}
+.dingbu img{
+	width: 100%;
+	height: auto;
+}
+
+
+.logo{
+	width: 100%;
+	height: 0.7rem;
+	background: #007BE3;
+	position: fixed;
+	margin-top: 0.41rem;
+	z-index: 1;
+}
+.logo .left{
+	width:48%;
+	height: 0.5rem;
+    float: left;
+	
+}
+.logo .left img{
+	width: 0.6rem;
+	height: 0.6rem;
+	display: block;
+	margin-top: 0.05rem;
+	margin-left: 2.8rem;
+
+}
+.logo .right{
+	width: 52%;
+	height: 0.5rem;
+	float: left;	
+	line-height: 0.7rem;
+}
+.logo .right h3{
+	font-size: 0.27rem;
+	color: white;
+}
+
+.banner{
+	width: 100%;
+	height: auto;
+	overflow: hidden;
+}
+.banner img{
+	width: 100%;
+	height:auto;
+	margin-top: 1rem;
+}
+
+.hengzi{
+	width: 100%;
+	height: 0.67rem;
+
+}
+.hengzi a{
+	text-decoration: none;
+	color: black;
+}
+
+.hengzi span{
+	box-sizing: border-box;
+	padding-left: 0.2rem;
+	font-size: 0.2rem;
+	line-height: 0.67rem;
+}
+
+.lou{
+	width: 95%;
+	height: auto;
+	overflow: hidden;
+	margin:0.2rem auto;
+	background: white;
+	
+}
+.lou .top{
+	margin:0 auto;
+	width: 95%;
+	height: 0.67rem;
+	overflow: hidden;
+	box-sizing: border-box;
+	border-bottom: 0.01rem dashed #ccc;
+}
+.lou .top .left{
+	width:0.5%;
+	height: 0.2rem;
+	background: blue;
+	float: left;
+
+	margin-top: 0.3rem;
+	
+}
+.lou .top span{
+	display: block;
+	margin-top: 0.25rem;
+	margin-left:0.1rem;
+	font-size: 0.24rem;
+}
+.lou .zhong p{
+	box-sizing: border-box;
+	padding-left: 0.43rem;
+	padding-right: 0.43rem;
+	padding-top: 0.3rem;
+	padding-bottom: 0.36rem;
+	font-size: 0.24rem;
+	color: #737373;
+}
+.lou .zhong p span{
+	box-sizing: border-box;
+	padding-top: 0.3rem;
+	font-size: 0.24rem;
+	color: #5EC9FF;
+}
+.lou .zhong i{
+	font-style: normal;
+	box-sizing: border-box;
+	padding-top: 0.3rem;
+	font-size: 0.24rem;
+	color:  #737373;
+}
+
+
+.lou2{
+	width: 95%;
+	height: auto;
+	overflow: hidden;
+	margin:auto;
+	background: white;
+}
+.lou2 .top{
+	margin:0 auto;
+	width: 95%;
+	height: 0.67rem;
+	overflow: hidden;
+	box-sizing: border-box;
+	border-bottom: 1px dashed #ccc;
+}
+.lou2 .top .left{
+	width:0.5%;
+	height: 0.2rem;
+	background: blue;
+	float: left;
+
+	margin-top: 0.3rem;
+	
+}
+.lou2 .top span{
+	display: block;
+	margin-top: 0.25rem;
+	margin-left:0.1rem;
+	font-size: 0.22rem;
+}
+.lou2 .zhong{
+	width: 100%;
+	height: auto;
+	overflow: hidden;
+	margin-top: 0.3rem;
+	margin-bottom: 0.37rem;
+	text-align: center;
+}
+.lou2 .zhong img{
+   width: 4.43rem;
+   height: 3.33rem;
+}
+.lou2 .zhong p{
+	font-size: 0.25rem;
+}
+
+
+.lou3{
+	width: 95%;
+	height: auto;
+	overflow: hidden;
+	margin:0.2rem auto;
+	background: white;
+}
+.lou3 .top{
+	margin: auto;
+	width: 95%;
+	height: 0.67rem;
+	overflow: hidden;
+	box-sizing: border-box;
+	border-bottom: 1px dashed #ccc;
+}
+.lou3 .top .left{
+	width:0.5%;
+	height: 0.2rem;
+	background: blue;
+	float: left;
+	margin-top: 0.3rem;
+	
+}
+.lou3 .top span{
+	display: block;
+	margin-top: 0.25rem;
+	margin-left:0.1rem;
+	font-size: 0.22rem;
+}
+.lou3 .zhong{
+	width: 100%;
+	height: auto;
+	overflow: hidden;
+	margin-top: 0.3rem;
+	margin-bottom: 0.37rem;
+}
+
+.lou3 .zhong ul{
+	width: 100%;
+	height: auto;
+	overflow: hidden;
+}
+.lou3 .zhong ul li{
+	width: 100%;
+	height: auto;
+	overflow: hidden;
+	margin-top: 0.2rem;
+	
+}
+.zhong ul li img{
+	float: left;
+	margin-left: 0.2rem;
+}
+.zhong ul li P{
+	display: inline-block;
+    font-size:0.23rem;
+    margin-left:0.2rem;
+    color: #98CEED;
+}
+.zhong ul li span{
+	display: inline-block;
+    font-size:0.15rem;
+    margin-left:0.2rem;
+}
+
+
+.lou4{
+	width: 95%;
+	height: auto;
+	overflow: hidden;
+	margin:auto;
+	background: white;
+}
+.lou4 .top{
+	margin:0 auto;
+	width: 95%;
+	height: 0.67rem;
+	overflow: hidden;
+	box-sizing: border-box;
+	border-bottom: 1px dashed #ccc;
+}
+.lou4 .top .left{
+	width:0.5%;
+	height: 0.2rem;
+	background: blue;
+	float: left;
+
+	margin-top: 0.3rem;
+	
+}
+.lou4 .top span{
+	display: block;
+	margin-top: 0.25rem;
+	margin-left:0.1rem;
+	font-size: 0.22rem;
+}
+.lou4 .zhong{
+	width: 100%;
+	height: auto;
+	overflow: hidden;
+	margin-top: 0.32rem;
+	margin-bottom: 0.32rem;
+}
+.lou4 .zhong p{
+	float: left;
+	font-size: 0.2rem;
+	margin-right: 1rem;
+	margin-left: 0.6rem;
+}
+.lou4 .zhong .p1{
+    margin-left: 0.25rem;
+}
+.lou4 .tx{
+	width: 100%;
+	height: auto;
+	overflow: hidden;
+	margin-bottom: 0.5rem;
+}
+.lou4 .tx p{
+    float: left;
+	font-size: 0.2rem;
+	margin-right: 0.2rem;
+	margin-left: 0.5rem;
+}
+.lou4 .tx .p2{
+	color: #FFB73C;
+}
+.lou4 .tx img{
+	float: left;
+	width: 0.2rem;
+	height: 0.2rem;
+	margin-left: 0.25rem;
+}
+
+
+.lou5{
+	width: 95%;
+	height: auto;
+	overflow: hidden;
+	margin:auto;
+	background: white;
+}
+.lou5 .top{
+	margin:0 auto;
+	width: 95%;
+	height: 0.67rem;
+	overflow: hidden;
+	box-sizing: border-box;
+	border-bottom: 1px dashed #ccc;
+}
+.lou5 .top .left{
+	width:0.5%;
+	height: 0.2rem;
+	background: blue;
+	float: left;
+
+	margin-top: 0.3rem;
+	
+}
+.lou5 .top span{
+	display: block;
+	margin-top: 0.25rem;
+	margin-left:0.1rem;
+	font-size: 0.22rem;
+}
+.lou5 .zhong{
+	width: 100%;
+	height: 4.31rem;
+	overflow: hidden;
+	position: relative;
+}
+.lou5 .zhong .z1{
+	margin-left: 2.65rem;
+	margin-top: 0.4rem;
+	width: 1.58rem;
+	height: 1.58rem;
+	box-sizing: border-box;
+	border-radius: 50%;
+	background: #00A0E9;	
+	text-align: center;
+	line-height: 1.58rem;
+}
+.lou5 .zhong .z1 p{
+	font-size: 0.25rem;
+	color: white;
+}
+
+.lou5 .zhong .z2{
+	position: absolute;
+	left: 0.95rem;
+	top:0.33rem;
+	width: 1rem;
+	height: 1rem;
+	box-sizing: border-box;
+	border-radius: 50%;
+	background: #00A0E9;	
+	text-align: center;
+	line-height: 0.95rem;
+}
+.lou5 .zhong .z2 p{
+	font-size: 0.2rem;
+	color: white;
+}
+.lou5 .zhong .z3{
+	position: absolute;
+	right: 0.95rem;
+	top:0.33rem;
+	width: 1rem;
+	height: 1rem;
+	box-sizing: border-box;
+	border-radius: 50%;
+	background: #00A0E9;	
+	text-align: center;
+	line-height: 0.95rem;
+}
+.lou5 .zhong .z3 p{
+	font-size: 0.2rem;
+	color: white;
+}
+.lou5 .zhong .z4{
+	position: absolute;
+	left: 0.35rem;
+	top:1.43rem;
+	width: 1.38rem;
+	height: 1.38rem;
+	box-sizing: border-box;
+	border-radius: 50%;
+	background: #00A0E9;	
+	text-align: center;
+	line-height: 1.38rem;
+}
+.lou5 .zhong .z4 p{
+	font-size: 0.2rem;
+	color: white;
+}
+.lou5 .zhong .z5{
+	position: absolute;
+	right: 0.2rem;
+	top:1.41rem;
+	width: 1.23rem;
+	height: 1.23rem;
+	box-sizing: border-box;
+	border-radius: 50%;
+	background: #00A0E9;	
+	text-align: center;
+	line-height: 1.35rem;
+}
+.lou5 .zhong .z5 p{
+	font-size: 0.2rem;
+	color: white;
+}
+.lou5 .zhong .z6{
+	position: absolute;
+	right: 1.62rem;
+	top:1.41rem;
+	width: 1.23rem;
+	height: 1.23rem;
+	box-sizing: border-box;
+	border-radius: 50%;
+	background: #00A0E9;	
+	text-align: center;
+	line-height: 1.35rem;
+}
+.lou5 .zhong .z6 p{
+	font-size: 0.2rem;
+	color: white;
+}
+.lou5 .zhong .z7{
+	position: absolute;
+	left: 1.74rem;
+	top:1.25rem;
+	width: 0.8rem;
+	height: 0.8rem;
+	box-sizing: border-box;
+	border-radius: 50%;
+	background: #00A0E9;	
+	text-align: center;
+	line-height: 0.8rem;
+}
+.lou5 .zhong .z7 p{
+	font-size: 0.17rem;
+	color: white;
+}
+.lou5 .zhong .z8{
+	position: absolute;
+	left: 1.70rem;
+	top:2.13rem;
+	width: 1.23rem;
+	height: 1.23rem;
+	box-sizing: border-box;
+	border-radius: 50%;
+	background: #00A0E9;	
+	text-align: center;
+	line-height: 1.35rem;
+}
+.lou5 .zhong .z8 p{
+	font-size: 0.2rem;
+	color: white;
+}
+.lou5 .zhong .z9{
+	position: absolute;
+	left: 2.93rem;
+	top:2.19rem;
+	width: 1.38rem;
+	height: 1.38rem;
+	box-sizing: border-box;
+	border-radius: 50%;
+	background: #00A0E9;	
+	text-align: center;
+	
+}
+.lou5 .zhong .z9 p{
+	margin-top: 0.4rem;
+	font-size: 0.2rem;
+	color: white;
+}
+.lou5 .zhong .z10{
+	position: absolute;
+	left: 4.47rem;
+	top:2.67rem;
+	width: 1.38rem;
+	height: 1.38rem;
+	box-sizing: border-box;
+	border-radius: 50%;
+	background: #00A0E9;	
+	text-align: center;
+	line-height: 1.38rem;	
+}
+.lou5 .zhong .z10 p{
+	font-size: 0.2rem;
+	color: white;
+}
+.lou5 .zhong .z11{
+	position: absolute;
+	left: 0.82rem;
+	top:2.96rem;
+	width: 0.8rem;
+	height: 0.8rem;
+	box-sizing: border-box;
+	border-radius: 50%;
+	background: #00A0E9;	
+	text-align: center;
+	line-height: 0.8rem;
+}
+.lou5 .zhong .z11 p{
+	font-size: 0.17rem;
+	color: white;
+}
+.dibu{
+	width: 100%;
+	hanging-punctuation: auto;
+	text-align: center;
+	margin-top: 0.2rem;
+	margin-bottom: 0.2rem;
+}
+.dibu p{
+	font-size: 0.2rem;
+	color: #8F8F91;
+}
+
+
+.tu{
+	width: 95%;
+	height: auto;
+	background: white;
+	overflow: hidden;
+	margin:0 auto;
+}
+.tu ul{
+	width: 95%;
+	height: auto;
+	overflow: hidden;
+	
+}
+.tu ul>li{
+	width: 25%;
+	height: auto;
+	text-align: center;
+	box-sizing: border-box;
+	padding-top: 0.29rem;
+	padding-left: 0.46rem;
+	float: left;
+}
+.tu ul>li img{
+	width: 1.25rem;
+	height: 1.25rem;
+	
+}
+.tu ul>li p{
+	margin-bottom: 0.37rem;
+	margin-top:0.24rem;
+	font-size: 0.24rem;
+}

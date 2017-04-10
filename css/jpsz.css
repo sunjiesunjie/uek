@@ -1,0 +1,302 @@
+.dingbu{
+	width: 101%;
+	height: 0.41rem;
+	background: #37BBFF;
+	position: fixed;
+}
+.dingbu img{
+	width: 100%;
+	height: auto;
+}
+
+
+.logo{
+	width: 100%;
+	height: 0.7rem;
+	background: #007BE3;
+	position: fixed;
+	margin-top: 0.41rem;
+}
+.logo .left{
+	width:48%;
+	height: 0.5rem;
+    float: left;
+	
+}
+.logo .left img{
+	width: 0.6rem;
+	height: 0.6rem;
+	display: block;
+	margin-top: 0.05rem;
+	margin-left: 2.8rem;
+
+}
+.logo .right{
+	width: 52%;
+	height: 0.5rem;
+	float: left;	
+	line-height: 0.7rem;
+}
+.logo .right h3{
+	font-size: 0.27rem;
+	color: white;
+}
+
+.banner{
+	width: 100%;
+	height: auto;
+	overflow: hidden;
+}
+.banner img{
+	width: 100%;
+	height:auto;
+	margin-top: 1rem;
+}
+.hengzi span{
+	box-sizing: border-box;
+	padding-left: 0.2rem;
+	font-size: 0.2rem;
+	line-height: 0.67rem;
+}
+.hengzi a{
+	text-decoration: none;
+	color: black;
+}
+	
+.fenye1{
+	width: 100%;
+	height: 0.7rem;
+	margin:0.2rem auto;
+	background: white;
+	line-height: 0.7rem;
+	box-sizing: border-box;
+	padding:0.05rem 0.15rem;
+
+	
+}
+.fenye1 .a1{
+	float: left;
+	margin-left: 0.2rem;
+}
+.fenye1 .a1 img{
+	width: 0.5rem;
+	height: 0.27rem;
+}
+.fenye1 .a2{
+	float: left;
+	margin-left: 0.2rem;
+}
+.fenye1 .a2 img{
+	width: 0.27rem;
+	height: 0.27rem;
+}
+.fenye1 .a3{
+	float: left;
+	margin-left: 0.2rem;
+	padding:0rem;
+}
+.fenye1 .a3 img{
+	width: 0.27rem;
+	height: 0.27rem;
+}
+.fenye1 .a4{
+	float: left;
+	margin-left: 0.2rem;
+}
+.fenye1 .a4 img{
+	width: 0.27rem;
+	height: 0.27rem;
+}
+.fenye1 .a5{
+	float: left;
+	margin-left: 0.2rem;
+}
+.fenye1 .a5 img{
+	width: 0.27rem;
+	height: 0.27rem;
+}
+.fenye1 .a6{
+	float: left;
+	margin-left: 0.2rem;
+}
+.fenye1 .a6 img{
+	width: 0.27rem;
+	height: 0.27rem;
+}
+.fenye1 .a7{
+	float: left;
+	margin-left: 0.2rem;
+}
+.fenye1 .a7 img{
+	width: 0.27rem;
+	height: 0.27rem;
+}
+.fenye1 .a20{
+	float: left;
+	margin-left: 0.2rem;
+}
+.fenye1 .a20 img{
+	width: 0.5rem;
+	height: 0.27rem;
+}
+.fenye1 .a8{
+	float: left;
+	margin-left: 0.2rem;
+}
+.fenye1 .a8 img{
+	width: 0.5rem;
+	height: 0.27rem;
+}
+.fenye1 .a9{
+	float: left;
+	margin-left: 0.2rem;
+}
+.fenye1 .a9 img{
+	width: 0.27rem;
+	height: 0.27rem;
+}
+.fenye1 span{
+	float: left;
+	margin-left: 0.2rem;
+	margin-top:-0.1rem;
+}
+
+
+
+
+.dibu{
+	width: 100%;
+	hanging-punctuation: auto;
+	text-align: center;
+	margin-top: 0.2rem;
+	margin-bottom: 0.2rem;
+}
+.dibu p{
+	font-size: 0.2rem;
+	color: #8F8F91;
+}
+
+
+.lou{
+	width: 95%;
+	height: 0.8rem;
+	border: 1px solid #01B5FF;
+	border-radius: 0.1rem;
+	margin:0rem auto;
+	background: white;
+}
+.lou .lou1{
+	width: 33.33%;
+	height: 100%;
+	background: #01B5FF;
+	box-sizing: border-box;
+	border-radius: 0.1rem;
+	float: left;
+	text-align: center;
+	line-height: 0.8rem;
+}
+.lou .lou1 p{
+	font-size: 0.22rem;
+	color: white;
+}
+.sanjiao{
+	margin-left:1.25rem;
+	width: 0.01rem;
+	border-top:0.12rem solid #01B5FF;
+	border-left: 0.08rem solid rgba(0,0,0,0);
+	border-right:0.08rem solid rgba(0,0,0,0);
+	border-bottom: 0rem;
+}
+
+
+.lou .lou2{
+	width: 33.33%;
+	height: 100%;
+	background: white;
+	float: left;
+	text-align: center;
+	line-height: 0.8rem;
+}
+.lou .lou2 p{
+	font-size: 0.22rem;
+	color: black;
+}
+.lou .lou3{
+	width: 33.33%;
+	height: 100%;
+	background: white;
+	box-sizing: border-box;
+	border-radius: 0.1rem;
+	float: left;
+	text-align: center;
+	line-height: 0.8rem;
+}
+.lou .lou3 p{
+	font-size: 0.22rem;
+	color: black;
+}
+
+.lou5{
+	width: 100%;
+	height: auto;
+	overflow: hidden;
+}
+.lou5 ul{
+	width: 95%;
+	height: auto;
+	overflow: hidden;
+	margin:0 auto;
+}
+.lou5 ul>li{
+	width: 100%;
+	height: 2.70rem;
+	background: white;
+    margin-top: 0.1rem;
+	
+}
+.lou5 ul>li img{
+	width: 2.3rem;
+	height: 2.3rem;
+	float: left;
+	margin-left: 0.2rem;
+	margin-top:0.2rem;
+	box-sizing: border-box;
+	border-radius: 0.1rem;
+}
+.lou5 .zi{
+	width:60%;
+	height: 1.17rem;
+	float: right;
+	box-sizing: border-box;
+	padding-top: 0.3rem;
+	padding-bottom: 0.3rem;
+}
+.lou5 .zi h2{
+	width: 1.5rem;
+	font-size: 0.25rem;
+	box-sizing: border-box;
+	border-bottom: 0.01rem dashed #ccc;
+}
+.lou5 .zi h2 span{
+	font-size: 0.1rem;
+	color: #939393;
+}
+.lou5 .zi h3{
+	box-sizing: border-box;
+    padding-top: 0.1rem;
+	font-size: 0.25rem;
+	color: #01B5FF;
+}
+.lou5 .zi h4{
+	box-sizing: border-box;
+	padding-top: 0.2rem;
+	font-size: 0.2rem;
+	color: #6F6F6F;
+}
+.lou5 .zi a{
+	font-size: 0.2rem;
+	color: #FFA637;
+	float: right;
+	margin-top:-1.7rem;
+	margin-right: 0.2rem;
+} 

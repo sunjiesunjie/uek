@@ -1,0 +1,401 @@
+.dingbu{
+	width: 101%;
+	height: 0.41rem;
+	background: #37BBFF;
+	position: fixed;
+	z-index: 1;
+}
+.dingbu img{
+	width: 100%;
+	height: auto;
+}
+
+
+.logo{
+	width: 100%;
+	height: 0.7rem;
+	background: #007BE3;
+	position: fixed;
+	z-index: 1;
+	margin-top: 0.41rem;
+}
+.logo .left{
+	width:48%;
+	height: 0.5rem;
+    float: left;
+	
+}
+.logo .left img{
+	width: 0.6rem;
+	height: 0.6rem;
+	display: block;
+	margin-top: 0.05rem;
+	margin-left: 2.8rem;
+
+}
+.logo .right{
+	width: 52%;
+	height: 0.5rem;
+	float: left;	
+	line-height: 0.7rem;
+}
+.logo .right h3{
+	font-size: 0.27rem;
+	color: white;
+}
+
+.banner{
+	width: 100%;
+	height: auto;
+	overflow: hidden;
+}
+.banner img{
+	width: 100%;
+	height:auto;
+	margin-top: 1rem;
+}
+
+.hengzi{
+	width: 100%;
+	height: 0.67rem;
+
+}
+.hengzi span{
+	box-sizing: border-box;
+	padding-left: 0.2rem;
+	font-size: 0.2rem;
+	line-height: 0.67rem;
+}
+.hengzi a{
+	text-decoration: none;
+	color: black;
+}
+
+.lou4{
+	width: 100%;
+	height: auto;
+	background: white;
+	overflow: hidden;
+	box-sizing: border-box;
+	border-bottom: 0.01rem solid #ccc;
+}
+.lou4 ul{
+	width: 95%;
+	height: auto;
+	overflow: hidden;
+	margin:0.25rem auto;
+}
+.lou4 ul>li{
+	width: 95%;
+	height: auto;
+	overflow: hidden;
+}
+.lou4 ul>li p{
+	font-size: 0.23rem;
+}
+.lou4 ul>li img{
+	margin-top: 0.2rem;
+	width: 1.92rem;
+	height: 1.43rem;
+	position: relative;
+}
+.lou4 ul li .span{
+	margin-left: 2.2rem;
+	margin-top: -1.5rem;
+	width: 60%;
+	height: 1.43rem;
+	overflow: hidden;
+}
+.lou4 ul>li span{
+	font-size: 0.2rem;
+	color: #7E7D7D;
+}
+.lou4 ul>li .bottom{
+	margin-top: 0.2rem;
+	width: 100%;
+	height: 0.63rem;
+	box-sizing: border-box;
+	border-top:0.01rem solid #ccc;
+	border-bottom:0.01rem solid #ccc;
+	display: flex;
+	align-items: center;
+}
+.lou4 ul>li .bottom ul{
+	margin-top: 0rem;
+	width: 100%;
+	height: 0.63rem;
+}
+.lou4 ul>li .bottom ul li{
+	float: left;
+	width: 33.33%;
+	height: 0.63rem;
+}
+.lou4 ul>li .bottom ul li img{ 
+	display: block;
+	width: 0.33rem;
+	height: 0.33rem;
+	margin-left: 0.12rem;
+	margin-top:0.25rem;
+}
+.lou4 ul>li .bottom ul li span{
+	display:block;
+	margin-top: -0.27rem;
+	margin-left: 0.45rem;
+}
+
+
+.xianx{
+	margin-left: 0.2rem;
+	margin-top: 0.2rem;
+	width: 1.92rem;
+	height: 1.43rem;
+	box-sizing: border-box;
+	border:0.01rem solid #01B5FF;
+	position:absolute;
+	top: 4.95rem;
+	left:0.1rem;
+	
+}	
+.xianx .yuan{
+	width: 0.04rem;
+	height: 0.04rem;
+	box-sizing: border-box;
+	border-radius: 50%;
+	background: #01B5FF;
+	position: absolute;
+	left: -0.02rem;
+	top: -0.02rem;
+
+}
+	
+.xianx .yuan2{
+	width: 0.04rem;
+	height: 0.04rem;
+	box-sizing: border-box;
+	border-radius: 50%;
+	background: #01B5FF;
+    position: absolute;
+	left: 1.88rem;
+	top: -0.02rem;
+}
+	
+.xianx .yuan3{
+	width: 0.04rem;
+	height: 0.04rem;
+	box-sizing: border-box;
+	border-radius: 50%;
+	background: #01B5FF;
+	position: absolute;
+	left: 1.88rem;
+	top: 1.4rem;
+}
+
+.xianx2{
+	margin-left: 0.2rem;
+	margin-top: 0.2rem;
+	width: 1.92rem;
+	height: 1.43rem;
+	box-sizing: border-box;
+	border:0.01rem solid #01B5FF;
+	position:absolute;
+	top: 8.18rem;
+	left:0.1rem;
+	
+}	
+.xianx2 .yuan{
+	width: 0.04rem;
+	height: 0.04rem;
+	box-sizing: border-box;
+	border-radius: 50%;
+	background: #01B5FF;
+	position: absolute;
+	left: -0.02rem;
+	top: -0.02rem;
+}
+	
+.xianx2 .yuan2{
+	width: 0.04rem;
+	height: 0.04rem;
+	box-sizing: border-box;
+	border-radius: 50%;
+	background: #01B5FF;
+    position: absolute;
+	left: 1.88rem;
+	top: -0.02rem;
+
+}
+	
+.xianx2 .yuan3{
+	width: 0.04rem;
+	height: 0.04rem;
+	box-sizing: border-box;
+	border-radius: 50%;
+	background: #01B5FF;
+	position: absolute;
+	left: 1.88rem;
+	top: 1.4rem;
+
+}
+
+
+.xianx3{
+	margin-left: 0.2rem;
+	margin-top: 0.2rem;
+	width: 1.92rem;
+	height: 1.43rem;
+	box-sizing: border-box;
+	border:0.01rem solid #01B5FF;
+	position:absolute;
+	top: 11.4rem;
+	left:0.1rem;
+	
+}	
+.xianx3 .yuan{
+	width: 0.04rem;
+	height: 0.04rem;
+	box-sizing: border-box;
+	border-radius: 50%;
+	background: #01B5FF;
+	position: absolute;
+	left: -0.02rem;
+	top: -0.02rem;
+
+}
+	
+.xianx3 .yuan2{
+	width: 0.04rem;
+	height: 0.04rem;
+	box-sizing: border-box;
+	border-radius: 50%;
+	background: #01B5FF;
+    position: absolute;
+	left: 1.88rem;
+	top: -0.02rem;
+
+}
+	
+.xianx3 .yuan3{
+	width: 0.04rem;
+	height: 0.04rem;
+	box-sizing: border-box;
+	border-radius: 50%;
+	background: #01B5FF;
+	position: absolute;
+	left: 1.88rem;
+	top: 1.4rem;
+
+}
+	
+	
+	
+.fenye1{
+	width: 100%;
+	height: 0.7rem;
+	margin:0.2rem auto;
+	background: white;
+	line-height: 0.7rem;
+	box-sizing: border-box;
+	padding:0.05rem 0.15rem;
+
+	
+}
+.fenye1 .a1{
+	float: left;
+	margin-left: 0.2rem;
+}
+.fenye1 .a1 img{
+	width: 0.5rem;
+	height: 0.27rem;
+}
+.fenye1 .a2{
+	float: left;
+	margin-left: 0.2rem;
+}
+.fenye1 .a2 img{
+	width: 0.27rem;
+	height: 0.27rem;
+}
+.fenye1 .a3{
+	float: left;
+	margin-left: 0.2rem;
+	padding:0rem;
+}
+.fenye1 .a3 img{
+	width: 0.27rem;
+	height: 0.27rem;
+}
+.fenye1 .a4{
+	float: left;
+	margin-left: 0.2rem;
+}
+.fenye1 .a4 img{
+	width: 0.27rem;
+	height: 0.27rem;
+}
+.fenye1 .a5{
+	float: left;
+	margin-left: 0.2rem;
+}
+.fenye1 .a5 img{
+	width: 0.27rem;
+	height: 0.27rem;
+}
+.fenye1 .a6{
+	float: left;
+	margin-left: 0.2rem;
+}
+.fenye1 .a6 img{
+	width: 0.27rem;
+	height: 0.27rem;
+}
+.fenye1 .a7{
+	float: left;
+	margin-left: 0.2rem;
+}
+.fenye1 .a7 img{
+	width: 0.27rem;
+	height: 0.27rem;
+}
+.fenye1 .a20{
+	float: left;
+	margin-left: 0.2rem;
+}
+.fenye1 .a20 img{
+	width: 0.5rem;
+	height: 0.27rem;
+}
+.fenye1 .a8{
+	float: left;
+	margin-left: 0.2rem;
+}
+.fenye1 .a8 img{
+	width: 0.5rem;
+	height: 0.27rem;
+}
+.fenye1 .a9{
+	float: left;
+	margin-left: 0.2rem;
+}
+.fenye1 .a9 img{
+	width: 0.27rem;
+	height: 0.27rem;
+}
+.fenye1 span{
+	float: left;
+	margin-left: 0.2rem;
+	margin-top:-0.1rem;
+}
+
+
+
+.dibu{
+	width: 100%;
+	hanging-punctuation: auto;
+	text-align: center;
+	margin-top: 0.2rem;
+	margin-bottom: 0.2rem;
+}
+.dibu p{
+	font-size: 0.2rem;
+	color: #8F8F91;
+}

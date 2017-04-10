@@ -1,0 +1,176 @@
+{
+	"yyk.html": {
+		"resources": [
+			"img/tu_13.png",
+			"img/shouye_02.png",
+			"img/tu_07.png",
+			"css/yyk.css",
+			"img/2017-04-07_091056.png",
+			"img/tu_03.png",
+			"img/tu_11.png",
+			"img/sun_08.png",
+			"js/rem.js",
+			"img/tu_08.png",
+			"img/shouye_03.png",
+			"img/sun_03.png",
+			"img/tu_10.png",
+			"img/tu_09.png",
+			"css/coment.css",
+			"img/tu_02.png",
+			"img/sun_05.png",
+			"img/shouye_01.png",
+			"img/logo.png",
+			"img/tu_16.png",
+			"img/banner_02.png",
+			"img/tu_05.png",
+			"jpsz.html"
+		],
+		"refer": [
+			"qd.html",
+			"gywm.html",
+			"zxdk.html",
+			"rmwt.html",
+			"yyk2.html",
+			"mtbd.html",
+			"jpsz.html"
+		]
+	},
+	"qd.html": {
+		"resources": [
+			"img/2017-04-07_223528.png",
+			"img/2017-04-07_223542.png",
+			"img/pay.png",
+			"img/2017-04-07_223513.png",
+			"img/2017-04-07_223557.png",
+			"css/qd.css",
+			"img/jb3.png",
+			"img/jb1.png",
+			"img/jb2.png",
+			"img/2017-04-07_171413.png"
+		],
+		"refer": [
+			"yyk.html"
+		]
+	},
+	"rmwt.html": {
+		"resources": [
+			"img/2017-04-07_171413.png",
+			"css/rmwt.css",
+			"css/coment.css",
+			"img/2017-04-07_091056.png",
+			"img/logo.png",
+			"js/rem.js",
+			"img/banner_02.png"
+		],
+		"refer": [
+			"yyk.html",
+			"rmwtxq.html"
+		]
+	},
+	"jpsz.html": {
+		"resources": [
+			"css/jpsz.css",
+			"img/2017-04-07_090502.png",
+			"css/coment.css",
+			"img/2017-04-07_091056.png",
+			"img/logo.png",
+			"js/rem.js",
+			"img/banner_02.png",
+			"img/page_20.png",
+			"img/page_12.png",
+			"img/page_22.png",
+			"img/page_18.png",
+			"img/page_10.png",
+			"img/page_06.png",
+			"img/page_08.png",
+			"img/page_14.png",
+			"img/page_16.png"
+		],
+		"refer": [
+			"jpszxq.html",
+			"yyk.html"
+		]
+	},
+	"jpszxq.html": {
+		"resources": [
+			"css/jpszxq.css"
+		],
+		"refer": [
+			"jpsz.html"
+		]
+	},
+	"gywm.html": {
+		"resources": [
+			"css/gywm.css",
+			"img/2017-04-07_140741.png",
+			"img/2017-04-07_134823.png",
+			"css/coment.css",
+			"img/2017-04-07_091056.png",
+			"img/logo.png",
+			"js/rem.js",
+			"img/banner_02.png"
+		],
+		"refer": [
+			"yyk.html"
+		]
+	},
+	"zxdk.html": {
+		"resources": [
+			"img/2017-04-07_183208.png",
+			"img/2017-04-07_183139.png",
+			"img/2017-04-07_183053.png",
+			"img/2017-04-07_183109.png",
+			"img/2017-04-07_183150.png",
+			"img/2017-04-07_183127.png",
+			"img/2017-04-07_183159.png",
+			"css/zxdk.css",
+			"css/coment.css",
+			"img/2017-04-07_091056.png",
+			"img/logo.png",
+			"js/rem.js",
+			"img/banner_02.png"
+		],
+		"refer": [
+			"yyk.html"
+		]
+	},
+	"rmwtxq.html": {
+		"resources": [
+			"css/rmwtxq.css",
+			"img/2017-04-07_183208.png",
+			"img/2017-04-07_183139.png",
+			"img/2017-04-07_183053.png",
+			"img/2017-04-07_183109.png",
+			"img/2017-04-07_183150.png",
+			"img/2017-04-07_183127.png",
+			"img/2017-04-07_183159.png"
+		],
+		"refer": [
+			"rmwt.html"
+		]
+	},
+	"yyk2.html": {
+		"resources": [
+			"css/yyk2.css",
+			"img/2017-04-07_090502.png"
+		],
+		"refer": [
+			"yyk.html"
+		]
+	},
+	"mtbd.html": {
+		"resources": [
+			"img/2017-04-07_161842.png",
+			"css/mtbd.css",
+			"css/coment.css",
+			"img/2017-04-07_090502.png",
+			"img/2017-04-07_091056.png",
+			"img/logo.png",
+			"js/rem.js",
+			"img/banner_02.png"
+		],
+		"refer": [
+			"yyk.html"
+		]
+	}
+}

@@ -1,0 +1,319 @@
+.dingbu{
+	width: 101%;
+	height: 0.41rem;
+	background: #37BBFF;
+	position: fixed;
+}
+.dingbu img{
+	width: 100%;
+	border:0rem;		
+	height: auto;
+}
+
+
+.logo{
+	width: 100%;
+	height: 0.7rem;
+	background: #007BE3;
+	position: fixed;
+	margin-top: 0.41rem;
+}
+.logo .left{
+	width:48%;
+	height: 0.5rem;
+    float: left;
+	
+}
+.logo .left img{
+	width: 0.6rem;
+	height: 0.6rem;
+	display: block;
+	margin-top: 0.05rem;
+	margin-left: 2.8rem;
+
+}
+.logo .right{
+	width: 52%;
+	height: 0.5rem;
+	float: left;	
+	line-height: 0.7rem;
+}
+.logo .right h3{
+	font-size: 0.27rem;
+	color: white;
+}
+
+.banner{
+	width: 100%;
+	height: auto;
+	overflow: hidden;
+}
+.banner img{
+	width: 100%;
+	height:auto;
+	margin-top: 1rem;
+}
+
+
+
+.lou{
+	width: 95%;
+	height: auto;
+	overflow: hidden;
+	margin:0 auto;
+	background: white;
+}
+.lou .top{
+	margin:0 auto;
+	width: 95%;
+	height: 0.67rem;
+	overflow: hidden;
+	box-sizing: border-box;
+	border-bottom: 1px dashed #ccc;
+}
+.lou .top .left{
+	width:0.5%;
+	height: 0.2rem;
+	background: blue;
+	float: left;
+
+	margin-top: 0.3rem;
+	
+}
+.lou .top span{
+	display: block;
+	margin-top: 0.25rem;
+	margin-left:0.1rem;
+	font-size: 0.22rem;
+}
+.lou .zhong p{
+	box-sizing: border-box;
+	padding-left: 0.2rem;
+	padding-right: 0.2rem;
+	padding-top: 0.3rem;
+	font-size: 0.2rem;
+	color: #737373;
+}
+.lou .zhong1 p{
+	box-sizing: border-box;
+	padding-left: 0.2rem;
+	padding-right: 0.25rem;
+	padding-top: 0.3rem;
+	font-size: 0.2rem;
+	color: #737373;
+}
+
+.hengzi{
+	width: 100%;
+	height: 0.67rem;
+
+}
+.hengzi span{
+	box-sizing: border-box;
+	padding-left: 0.2rem;
+	font-size: 0.2rem;
+	line-height: 0.67rem;
+}
+.hengzi a{
+	text-decoration: none;
+	color: black;
+}
+
+.lou2{
+	width: 95%;
+	height: auto;
+	overflow: hidden;
+	margin:0.2rem auto;
+	background: white;
+}
+.lou2 .top{
+	margin:0 auto;
+	width: 95%;
+	height: 0.67rem;
+	overflow: hidden;
+	box-sizing: border-box;
+	border-bottom: 1px dashed #ccc;
+}
+.lou2 .top .left{
+	width:0.5%;
+	height: 0.2rem;
+	background: blue;
+	float: left;
+
+	margin-top: 0.3rem;
+	
+}
+.lou2 .top span{
+	display: block;
+	margin-top: 0.25rem;
+	margin-left:0.1rem;
+	font-size: 0.22rem;
+}
+.lou2 .zhong{
+	width: 100%;
+	height: auto;
+	overflow: hidden;
+	margin-top: 0.3rem;
+	margin-bottom: 0.3rem;
+}
+.lou2 .zhong img{
+	height: 1.35rem;
+	float: left;
+	box-sizing: border-box;
+	padding-left: 0.75rem;
+}
+
+.lou3{
+	width: 95%;
+	height: auto;
+	overflow: hidden;
+	margin:0.2rem auto;
+	background: white;
+}
+.lou3 .top{
+	margin:0 auto;
+	width: 95%;
+	height: 0.67rem;
+	overflow: hidden;
+	box-sizing: border-box;
+	border-bottom: 1px dashed #ccc;
+}
+.lou3 .top .left{
+	width:0.5%;
+	height: 0.2rem;
+	background: blue;
+	float: left;
+	margin-top: 0.3rem;
+	
+}
+.lou3 .top span{
+	display: block;
+	margin-top: 0.25rem;
+	margin-left:0.1rem;
+	font-size: 0.22rem;
+}
+.lou3 .zhong{
+	width: 100%;
+	height: auto;
+	margin-top:0.2rem;
+	margin-bottom:0.2rem;
+}
+.lou3 .zhong span{
+	box-sizing: border-box;
+    padding-left: 0.2rem;
+    font-size: 0.22rem;
+    color: #737373;
+}
+
+
+.lou4{
+	width: 95%;
+	height: auto;
+	overflow: hidden;
+	margin:0.2rem auto;
+	background: white;
+}
+.lou4 .top{
+	margin:0 auto;
+	width: 95%;
+	height: 0.67rem;
+	overflow: hidden;
+	box-sizing: border-box;
+	border-bottom: 1px dashed #ccc;
+}
+.lou4 .top .left{
+	width:0.5%;
+	height: 0.2rem;
+	background: blue;
+	float: left;
+	margin-top: 0.3rem;
+	
+}
+.lou4 .top span{
+	display: block;
+	margin-top: 0.25rem;
+	margin-left:0.1rem;
+	font-size: 0.22rem;
+}
+.lou4 .zhong{
+	width: 100%;
+	height: auto;
+	margin-top:0.2rem;
+	margin-bottom:0.2rem;
+}
+.lou4 .zhong span{
+	box-sizing: border-box;
+    padding-left: 0.2rem;
+    font-size: 0.22rem;
+    color: #737373;
+}
+
+.lou5{
+	width: 95%;
+	height: auto;
+	overflow: hidden;
+	margin:0.2rem auto;
+	background: white;
+}
+.lou5 .top{
+	margin:0 auto;
+	width: 95%;
+	height: 0.67rem;
+	overflow: hidden;
+	box-sizing: border-box;
+	border-bottom: 1px dashed #ccc;
+}
+.lou5 .top .left{
+	width:0.5%;
+	height: 0.2rem;
+	background: blue;
+	float: left;
+	margin-top: 0.3rem;
+	
+}
+.lou5 .top span{
+	display: block;
+	margin-top: 0.25rem;
+	margin-left:0.1rem;
+	font-size: 0.22rem;
+}
+.lou5 .zhong{
+	width: 100%;
+	height: auto;
+	margin-top:0.2rem;
+	margin-bottom:0.2rem;
+}
+.lou5 .zhong span{
+	box-sizing: border-box;
+    padding-left: 0.2rem;
+    font-size: 0.22rem;
+    color: #737373;
+}
+
+.dibu1{
+	width: 100%;
+	height: auto;
+	overflow: hidden;
+}
+.dibu1 img{
+	width: 1.35rem;
+	height: 1.35rem;
+	display: block;
+	margin-top: 0.2rem;
+	margin-left: 3rem;
+	margin-bottom: 0.2rem;
+	
+}
+
+
+.dibu{
+	width: 100%;
+	hanging-punctuation: auto;
+	text-align: center;
+	margin-top: 0.2rem;
+	margin-bottom: 0.2rem;
+}
+.dibu p{
+	font-size: 0.2rem;
+	color: #8F8F91;
+}
