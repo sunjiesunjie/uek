@@ -299,91 +299,263 @@
 
 	
 }
-.fenye1 .a1{
-	float: left;
+	
+.fenye1{
+	width: 7.20rem;
+	height: 0.7rem;
+	margin:0.2rem auto;
+	background: white;
+	line-height: 0.7rem;
+	box-sizing: border-box;
+	padding:0.05rem 0.10rem;
+}
+.fenye1 a{
+	text-decoration: none;
+	color: black;
+}
+
+.fenye1 .yuan{
+	width: 0.61rem;
+	height: 0.28rem;
+	margin-top: 0.15rem;
 	margin-left: 0.2rem;
-}
-.fenye1 .a1 img{
-	width: 0.5rem;
-	height: 0.27rem;
-}
-.fenye1 .a2{
 	float: left;
-	margin-left: 0.2rem;
+	border-radius: 0.5rem;
+	border:0.01rem solid #C8C8C8;
 }
-.fenye1 .a2 img{
-	width: 0.27rem;
-	height: 0.27rem;
+.fenye1 .yuan .yuan1{
+	width: 0.55rem;
+	height: 0.22rem;
+	margin-top: 0.02rem;
+	margin-left: 0.02rem;
+	border-radius: 0.5rem;
+	border:0.01rem solid black;
 }
-.fenye1 .a3{
+.fenye1 .yuan .yuan1 span{
+	font-size:0.4rem;
+	display: block;
+    margin-left: 0.08rem;
+    margin-top:-0.27rem;
+	
+}
+.fenye1 .yuan1{
+	width: 0.28rem;
+	height: 0.28rem;
+	margin-top: 0.15rem;
+	margin-left: 0.15rem;
 	float: left;
+	border-radius: 0.5rem;
+	border:0.01rem solid #C8C8C8;
+}
+.fenye1 .yuan1 .yuan2{
+	width: 0.22rem;
+	height: 0.22rem;
+	margin-top: 0.02rem;
+	margin-left: 0.02rem;
+	border-radius: 0.5rem;
+	border:0.01rem solid black;
+}
+.fenye1 .yuan1 .yuan2 span{
+	font-size:0.15rem;
+	display: block;
+    margin-left: 0.07rem;
+    margin-top:-0.23rem;
+
+}
+
+.fenye1 .yuan2 .yuan3{
+	width: 0.22rem;
+	height: 0.22rem;
+	margin-top: 0.02rem;
+	margin-left: 0.02rem;
+	border-radius: 0.5rem;
+	border:0.01rem solid black;
+}
+.fenye1 .yuan2 .yuan3 span{
+	font-size:0.15rem;
+	display: block;
+    margin-left: 0.07rem;
+    margin-top:-0.23rem;
+
+}
+.fenye1 .yuan2{
+	width: 0.28rem;
+	height: 0.28rem;
+	margin-top: 0.15rem;
 	margin-left: 0.2rem;
-	padding:0rem;
-}
-.fenye1 .a3 img{
-	width: 0.27rem;
-	height: 0.27rem;
-}
-.fenye1 .a4{
 	float: left;
+	border-radius: 0.5rem;
+	border:0.01rem solid #C8C8C8;
+}
+.fenye1 .yuan2 .yuan3{
+	width: 0.22rem;
+	height: 0.22rem;
+	margin-top: 0.02rem;
+	margin-left: 0.02rem;
+	border-radius: 0.5rem;
+	border:0.01rem solid black;
+}
+.fenye1 .yuan2 .yuan3 span{
+	font-size:0.15rem;
+	display: block;
+    margin-left: 0.07rem;
+    margin-top:-0.23rem;
+
+}
+.fenye1 .yuan3{
+	width: 0.28rem;
+	height: 0.28rem;
+	margin-top: 0.15rem;
 	margin-left: 0.2rem;
-}
-.fenye1 .a4 img{
-	width: 0.27rem;
-	height: 0.27rem;
-}
-.fenye1 .a5{
 	float: left;
+	border-radius: 0.5rem;
+	border:0.01rem solid #C8C8C8;
+}
+.fenye1 .yuan3 .yuan4{
+	width: 0.22rem;
+	height: 0.22rem;
+	margin-top: 0.02rem;
+	margin-left: 0.02rem;
+	border-radius: 0.5rem;
+	border:0.01rem solid black;
+}
+.fenye1 .yuan3 .yuan4 span{
+	font-size:0.15rem;
+	display: block;
+    margin-left: 0.07rem;
+    margin-top:-0.23rem;
+
+}
+.fenye1 .yuan4{
+	width: 0.28rem;
+	height: 0.28rem;
+	margin-top: 0.15rem;
 	margin-left: 0.2rem;
-}
-.fenye1 .a5 img{
-	width: 0.27rem;
-	height: 0.27rem;
-}
-.fenye1 .a6{
 	float: left;
+	border-radius: 0.5rem;
+	border:0.01rem solid #C8C8C8;
+}
+.fenye1 .yuan4 .yuan5{
+	width: 0.22rem;
+	height: 0.22rem;
+	margin-top: 0.02rem;
+	margin-left: 0.02rem;
+	border-radius: 0.5rem;
+	border:0.01rem solid black;
+}
+.fenye1 .yuan4 .yuan5 span{
+	font-size:0.15rem;
+	display: block;
+    margin-left: 0.07rem;
+    margin-top:-0.23rem;
+
+}
+.fenye1 .yuan5{
+	width: 0.28rem;
+	height: 0.28rem;
+	margin-top: 0.15rem;
 	margin-left: 0.2rem;
-}
-.fenye1 .a6 img{
-	width: 0.27rem;
-	height: 0.27rem;
-}
-.fenye1 .a7{
 	float: left;
-	margin-left: 0.2rem;
+	border-radius: 0.5rem;
+	border:0.01rem solid #C8C8C8;
 }
-.fenye1 .a7 img{
-	width: 0.27rem;
-	height: 0.27rem;
+.fenye1 .yuan5 .yuan6{
+	width: 0.22rem;
+	height: 0.22rem;
+	margin-top: 0.02rem;
+	margin-left: 0.02rem;
+	border-radius: 0.5rem;
+	border:0.01rem solid black;
 }
-.fenye1 .a20{
+.fenye1 .yuan5 .yuan6 span{
+	font-size:0.15rem;
+	display: block;
+    margin-left: 0.07rem;
+    margin-top:-0.23rem;
+
+}
+
+.fenye1 .yuan6{
+	width: 0.35rem;
+	height: 0.28rem;
+	margin-top: 0.15rem;
+	margin-left: 0.05rem;
 	float: left;
-	margin-left: 0.2rem;
-}
-.fenye1 .a20 img{
-	width: 0.5rem;
-	height: 0.27rem;
-}
-.fenye1 .a8{
-	float: left;
-	margin-left: 0.2rem;
-}
-.fenye1 .a8 img{
-	width: 0.5rem;
-	height: 0.27rem;
-}
-.fenye1 .a9{
-	float: left;
-	margin-left: 0.2rem;
-}
-.fenye1 .a9 img{
-	width: 0.27rem;
-	height: 0.27rem;
+	border-radius: 0.5rem;
 }
 .fenye1 span{
+	font-size:0.15rem;
+	display: block;
+    margin-left: 0.07rem;
+    margin-top:-0.23rem;
+
+}
+.fenye1 .yuan7{
+	width: 0.28rem;
+	height: 0.28rem;
+	margin-top: 0.15rem;
+	margin-left: 0.05rem;
 	float: left;
-	margin-left: 0.2rem;
-	margin-top:-0.1rem;
+	border-radius: 0.5rem;
+	border:0.01rem solid #C8C8C8;
+}
+.fenye1 .yuan7 .yuan8{
+	width: 0.22rem;
+	height: 0.22rem;
+	margin-top: 0.02rem;
+	margin-left: 0.02rem;
+	border-radius: 0.5rem;
+	border:0.01rem solid black;
+}
+.fenye1 .yuan7 .yuan8 span{
+	font-size:0.15rem;
+	display: block;
+    margin-left: 0.03rem;
+    margin-top:-0.23rem;
+
+}
+.fenye1 .tiao{
+	width: 0.5rem;
+	height: 0.5rem;
+	float: left;
+	box-sizing: border-box;
+	padding-left:0.02rem;
+	padding-top:0.02rem;
+	margin-left: 0.05rem;
+	margin-top:0.05rem;
+	margin-right: 0.01rem;
+}
+
+.fenye1 .tiao .tiao1 span{
+	display: block;
+	box-sizing: border-box;
+	padding-top:0.1rem;
+	padding-left: 0.01rem;
+	padding-right: 0.01rem;
+	font-size: 0.1rem;
+}
+.fenye1 .yuan10{
+	width: 0.61rem;
+	height: 0.28rem;
+	margin-top: 0.15rem;
+	margin-left: 0.05rem;
+	float: left;
+	border-radius: 0.5rem;
+	border:0.01rem solid #C8C8C8;
+}
+.fenye1 .yuan10 .yuan11{
+	width: 0.55rem;
+	height: 0.22rem;
+	margin-top: 0.02rem;
+	margin-left: 0.02rem;
+	border-radius: 0.5rem;
+	border:0.01rem solid #C8C8C8;
+}
+.fenye1 .yuan10 .yuan11 span{
+	display: block;
+    margin-left: 0.08rem;
+    margin-top:-0.27rem;
+	
 }
 
 

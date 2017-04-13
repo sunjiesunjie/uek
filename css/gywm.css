@@ -62,6 +62,8 @@
 	overflow: hidden;
 	margin:0 auto;
 	background: white;
+	box-sizing: border-box;
+	padding:0.2rem 0.1rem;
 }
 .lou .top{
 	margin:0 auto;
@@ -151,18 +153,85 @@
 }
 .lou2 .zhong{
 	width: 100%;
-	height: auto;
+	height: 1.6rem;
 	overflow: hidden;
 	margin-top: 0.3rem;
 	margin-bottom: 0.3rem;
 }
-.lou2 .zhong img{
-	height: 1.35rem;
+.lou2 .zhong .box{
+	margin-left: 0.7rem;
 	float: left;
+	width: 1.4rem;
+	height: 1.4rem;
+	background: #3489FD;
+	border-radius: 50%;
+	text-align: center;
 	box-sizing: border-box;
-	padding-left: 0.75rem;
+	padding:0.19rem;
+	
+}
+.lou2 .zhong .box .box1{
+	width: 1rem;
+	height: 1rem;
+	border:0.02rem solid white;
+	border-radius: 50%;
+	text-align: center;
+	line-height: 1rem;
+}
+.lou2 .zhong .box .box1 span{
+	font-size: 0.25rem;
+	color: white;
 }
 
+.lou2 .zhong .box2{
+	margin-left: 0.7rem;
+	float: left;
+	width: 1.4rem;
+	height: 1.4rem;
+	background: #FC7E29;
+	border-radius: 50%;
+	text-align: center;
+	box-sizing: border-box;
+	padding:0.19rem;
+	
+}
+.lou2 .zhong .box2 .box3{
+	width: 1rem;
+	height: 1rem;
+	border:0.02rem solid white;
+	border-radius: 50%;
+	text-align: center;
+	line-height: 1rem;
+}
+.lou2 .zhong .box2 .box3 span{
+	font-size: 0.25rem;
+	color: white;
+}
+
+.lou2 .zhong .box4{
+	margin-left: 0.7rem;
+	float: left;
+	width: 1.4rem;
+	height: 1.4rem;
+	background: #F03F64;
+	border-radius: 50%;
+	text-align: center;
+	box-sizing: border-box;
+	padding:0.19rem;
+	
+}
+.lou2 .zhong .box4 .box5{
+	width: 1rem;
+	height: 1rem;
+	border:0.02rem solid white;
+	border-radius: 50%;
+	text-align: center;
+	line-height: 1rem;
+}
+.lou2 .zhong .box4 .box5 span{
+	font-size: 0.25rem;
+	color: white;
+}
 .lou3{
 	width: 95%;
 	height: auto;
@@ -289,20 +358,41 @@
     font-size: 0.22rem;
     color: #737373;
 }
-
 .dibu1{
 	width: 100%;
-	height: auto;
-	overflow: hidden;
+	height: 2.23rem;
+	margin:0 auto;
 }
-.dibu1 img{
-	width: 1.35rem;
-	height: 1.35rem;
-	display: block;
-	margin-top: 0.2rem;
+.dibu1 .box{
+	width: 100%;
+	height: 1.6rem;
+	overflow: hidden;
+     
+}
+.dibu1 .box{
 	margin-left: 3rem;
-	margin-bottom: 0.2rem;
+	margin-top:0.4rem;
+	float: left;
+	width: 1.6rem;
+	height: 1.6rem;
+	background: #F03F64;
+	border-radius: 50%;
+	text-align: center;
+	box-sizing: border-box;
+	padding:0.19rem;
 	
+}
+.dibu1 .box .box1{
+	width: 1.2rem;
+	height: 1.2rem;
+	border:0.02rem solid white;
+	border-radius: 50%;
+	text-align: center;
+	line-height: 1.2rem;
+}
+.dibu1 .box .box1 span{
+	font-size: 0.25rem;
+	color: white;
 }
 
 
